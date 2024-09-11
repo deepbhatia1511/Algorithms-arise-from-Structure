@@ -5,8 +5,8 @@ class Positron(Circle):
     CONFIG = {
         "radius": 0.2,
         "stroke_width": 3,
-        "color": RED,
-        "fill_color": RED,
+        "color": WHITE,
+        "fill_color": WHITE,
         "fill_opacity": 0.5,
     }
 
